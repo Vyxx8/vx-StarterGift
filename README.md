@@ -38,7 +38,7 @@ Follow these steps to set up the Starter Gift Box script in your server:
    - Customize the items you want to include in the gift box for your server.
 
 ## Support
-For any questions or troubleshooting, feel free to reach out to me on discord '_machooman_'
+For any questions or troubleshooting, feel free to reach out to me on discord -- _machooman_ --
 
 ---
 
